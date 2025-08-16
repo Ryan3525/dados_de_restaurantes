@@ -1,4 +1,4 @@
-Sabor Express
+## Sabor Express
 
 Um sistema simples em Python para gerenciamento de restaurantes.
 O programa permite cadastrar, listar e alterar o estado (ativo ou desativado) de restaurantes de forma interativa pelo terminal.
